@@ -1,0 +1,18 @@
+#Strings
+
+
+str0='''india'''
+str1="""india"""
+str2="'india'"
+str3='"india"'
+str4='india'
+print(str0)
+print(str1)
+print(str2)
+print(str3)
+print(str4)
+
+str5="this is a code written by me in python. i am learning python since last two days."
+str6="this is a code written by me in python.\ni am learning python since last two days."
+print(str5)
+print(str6)
